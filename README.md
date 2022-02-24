@@ -1,12 +1,4 @@
-# HALISAHA
-
-* Kaliteli sahalar
-* Yeni zemin 
-* Her sahada kamera
-
-
-```                           
-  YEŞİL HALI SAHA
-```
+# CSS ÖDEV 2
+* İlk Google Anasayfası
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
