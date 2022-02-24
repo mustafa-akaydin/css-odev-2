@@ -1,0 +1,56 @@
+
+p{
+    margin: 0;
+}
+a{
+    margin: 0;
+}
+
+
+.box{
+    text-align: center;
+    background-color: rgb(136, 136, 136);
+}
+
+.inputDownText{
+    display: inline-flex;
+
+}.inputDownText input{
+    padding: 4px 5px;
+    border: solid 1px #000;
+    border-radius: 4px;
+    margin: 10px 5px;
+}
+.box-down{
+display: flex;
+}
+.subBox{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: cyan;
+    margin: 0;
+    width: 34%;
+}.subBox2{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 192, 192);
+    margin: 0;
+    width: 23%;
+
+}.subBox3{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 158, 158);
+    margin: 0;
+    width: 43%;
+}
+.subBox3 input[type="button" i]{
+    margin: 3px 10px;
+}
+
